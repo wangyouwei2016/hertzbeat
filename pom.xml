@@ -63,7 +63,7 @@
         <mongodb-driver.version>4.6.1</mongodb-driver.version>
         <clickhouse.version>1.4.4</clickhouse.version>
         <damengc-driver.version>8.1.2.141</damengc-driver.version>
-        <postgresql.version>42.5.1</postgresql.version>
+        <postgresql.version>42.7.2</postgresql.version>
         <h2.version>2.1.214</h2.version>
         <taos-jdbcdriver.version>3.0.0</taos-jdbcdriver.version>
         <iotdb-session.version>0.13.3</iotdb-session.version>
